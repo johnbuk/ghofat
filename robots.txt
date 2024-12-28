@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://johnbuk.github.io/ghofat/sitemap.xml
